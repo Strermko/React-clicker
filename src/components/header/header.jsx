@@ -11,7 +11,7 @@ function Header() {
     <Container className="header">
       <Row>
         <Col className="logo">
-          <Link to="/">
+          <Link to="/React-clicker">
             <img
               onClick={() => setSus(false)}
               src={sus ? Alive : Dead}
@@ -21,7 +21,7 @@ function Header() {
         </Col>
         <Col className="menu">
           <ListGroup horizontal>
-            <Link to="/about-me">About me</Link>
+            <Link to="/React-clicker/about-me">About me</Link>
             <Link to="/">Contact</Link>
           </ListGroup>
         </Col>

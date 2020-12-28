@@ -10,8 +10,8 @@ function App() {
     <Router>
       <div className="app">
         <Header />
-        <Route path="/" exact component={MainPage} />
-        <Route path="/about-me" component={AboutMe} />
+        <Route path="/React-clicker" exact component={MainPage} />
+        <Route path="/React-clicker/about-me" component={AboutMe} />
       </div>
     </Router>
   );
