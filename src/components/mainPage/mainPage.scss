@@ -1,0 +1,30 @@
+.main-page {
+  h2 {
+    font: 4rem "Papyrus";
+    text-align: center;
+    width: 100%;
+    @media (max-width: 750px) {
+      font-size: 3rem;
+    }
+  }
+  .main-info {
+    font: 1.7rem "Garamond";
+    text-align: justify;
+    .col {
+      padding: 0;
+      margin: 0.5rem;
+      display: flex;
+      justify-content: center;
+      .italic {
+        font-style: Italic;
+      }
+      &:first-child {
+        flex-grow: 3;
+      }
+    }
+  }
+  img {
+    width: 280px;
+    height: 400px;
+  }
+}

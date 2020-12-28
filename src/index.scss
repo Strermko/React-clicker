@@ -1,0 +1,28 @@
+html {
+  height: auto;
+  @media (min-width: 950px) {
+    height: 100vh;
+  }
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  background-color: #dfdddd !important;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  .row {
+    color: black;
+    margin: 2rem !important;
+    @media (max-width: 950px) {
+      margin: 0.6rem !important;
+    }
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
