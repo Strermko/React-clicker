@@ -1,6 +1,7 @@
 .main-page {
   h2 {
-    font: 4rem "Papyrus";
+    font-family: 'Bungee Inline', cursive;
+    font-size: 4rem;
     text-align: center;
     width: 100%;
     @media (max-width: 750px) {
@@ -8,7 +9,7 @@
     }
   }
   .main-info {
-    font: 1.7rem "Garamond";
+    font: 1.7rem 'Roboto Condensed', sans-serif;
     text-align: justify;
     .col {
       padding: 0;
