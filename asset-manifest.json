@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/React-clicker/static/css/main.1f393dbd.chunk.css",
-    "main.js": "/React-clicker/static/js/main.7f9b8de1.chunk.js",
-    "main.js.map": "/React-clicker/static/js/main.7f9b8de1.chunk.js.map",
+    "main.css": "/React-clicker/static/css/main.be92369c.chunk.css",
+    "main.js": "/React-clicker/static/js/main.58ef0b09.chunk.js",
+    "main.js.map": "/React-clicker/static/js/main.58ef0b09.chunk.js.map",
     "runtime-main.js": "/React-clicker/static/js/runtime-main.7547d7da.js",
     "runtime-main.js.map": "/React-clicker/static/js/runtime-main.7547d7da.js.map",
     "static/css/2.95f25948.chunk.css": "/React-clicker/static/css/2.95f25948.chunk.css",
-    "static/js/2.e50f154c.chunk.js": "/React-clicker/static/js/2.e50f154c.chunk.js",
-    "static/js/2.e50f154c.chunk.js.map": "/React-clicker/static/js/2.e50f154c.chunk.js.map",
+    "static/js/2.1e3eef9d.chunk.js": "/React-clicker/static/js/2.1e3eef9d.chunk.js",
+    "static/js/2.1e3eef9d.chunk.js.map": "/React-clicker/static/js/2.1e3eef9d.chunk.js.map",
     "index.html": "/React-clicker/index.html",
     "static/css/2.95f25948.chunk.css.map": "/React-clicker/static/css/2.95f25948.chunk.css.map",
-    "static/css/main.1f393dbd.chunk.css.map": "/React-clicker/static/css/main.1f393dbd.chunk.css.map",
-    "static/js/2.e50f154c.chunk.js.LICENSE.txt": "/React-clicker/static/js/2.e50f154c.chunk.js.LICENSE.txt",
-    "static/media/RedSus.14dfefa5.svg": "/React-clicker/static/media/RedSus.14dfefa5.svg",
+    "static/css/main.be92369c.chunk.css.map": "/React-clicker/static/css/main.be92369c.chunk.css.map",
+    "static/js/2.1e3eef9d.chunk.js.LICENSE.txt": "/React-clicker/static/js/2.1e3eef9d.chunk.js.LICENSE.txt",
+    "static/media/Green.7e799aa7.png": "/React-clicker/static/media/Green.7e799aa7.png",
+    "static/media/Orange.3fe9b2ee.png": "/React-clicker/static/media/Orange.3fe9b2ee.png",
+    "static/media/Purple.2dbeeea8.png": "/React-clicker/static/media/Purple.2dbeeea8.png",
+    "static/media/Red.f2ea9061.png": "/React-clicker/static/media/Red.f2ea9061.png",
+    "static/media/Yellow.022b1071.png": "/React-clicker/static/media/Yellow.022b1071.png",
     "static/media/alive.7f160934.png": "/React-clicker/static/media/alive.7f160934.png",
     "static/media/dead.062fb91e.png": "/React-clicker/static/media/dead.062fb91e.png",
     "static/media/meme.9469d71e.jpg": "/React-clicker/static/media/meme.9469d71e.jpg"
@@ -20,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.7547d7da.js",
     "static/css/2.95f25948.chunk.css",
-    "static/js/2.e50f154c.chunk.js",
-    "static/css/main.1f393dbd.chunk.css",
-    "static/js/main.7f9b8de1.chunk.js"
+    "static/js/2.1e3eef9d.chunk.js",
+    "static/css/main.be92369c.chunk.css",
+    "static/js/main.58ef0b09.chunk.js"
   ]
 }
